@@ -1,0 +1,24 @@
+body {
+	background-color: #1f1f1f;
+	color: white;
+	font-family: monospace;
+	font-weight: normal;
+	font-size: 1.5em;
+}
+
+a:link {
+	color: #0cbe0c;
+}
+
+a:visited {
+	color: #447c44;
+}
+
+a:active {
+	color: #80ff00;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+}
