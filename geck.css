@@ -3,7 +3,7 @@ body {
 	color: white;
 	font-family: monospace;
 	font-weight: normal;
-	font-size: 1.5em;
+	font-size: 185%;
 }
 
 a:link {
@@ -22,3 +22,9 @@ header {
 	width: 100%;
 	text-align: center;
 }
+.container {
+	width: 85%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
