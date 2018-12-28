@@ -4,7 +4,7 @@ The Nearly Ultimate Fallout 2 Guide
 ===
 
 **Version 1.3  
-Written and coded by Per Jorner**  
+Written by Per Jorner**  
 
 _Let me enlighten you, grasshopper. Fallout 2 is cool because it's a nonlinear, nonclassbased kickass postnuclear computer roleplaying game with a high replayabillity value. Fallout 2 allows you to play your character the way you want. If you want to play a goodie-two-shoes, you can. If you want to play an evil bastard, you can (Yes, you really can hit children in the groin with a sledgehammer). If you want to play a moron who can hardly talk because of his low intelligence, you can._  
 \--Shadowman  
